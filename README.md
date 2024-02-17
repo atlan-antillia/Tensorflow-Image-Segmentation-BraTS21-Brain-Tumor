@@ -228,7 +228,7 @@ Enlarged samples<br>
 <table>
 <tr>
 <td>
-mini_test/images/BraTS2021_00017_1062.jpg<br>
+test/images/BraTS2021_00017_1062.jpg<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00017_1062.jpg" width="512" height="auto">
 
 </td>
@@ -242,7 +242,7 @@ Inferred BraTS2021_00017_1062.jpg<br>
 <!-- 2-->
 <tr>
 <td>
-mini_test/images/BraTS2021_00334_1070.jpg<br>
+test/images/BraTS2021_00334_1070.jpg<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00334_1070.jpg" width="512" height="auto">
 
 </td>
@@ -256,7 +256,7 @@ Inferred BraTS2021_00334_1070.jpg<br>
 <!-- 3-->
 <tr>
 <td>
-mini_test/images/BraTS2021_00579_1071.jpg<br>
+test/images/BraTS2021_00579_1071.jpg<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00579_1071.jpg" width="512" height="auto">
 
 </td>
@@ -270,7 +270,7 @@ Inferred BraTS2021_00579_1071.jpg<br>
 <!-- 4-->
 <tr>
 <td>
-mini_test/images/BraTS2021_00716_1080.jpg<br>
+test/images/BraTS2021_00716_1080.jpg<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00716_1080.jpg" width="512" height="auto">
 
 </td>
@@ -284,7 +284,7 @@ Inferred BraTS2021_00716_1080.jpg<br>
 <!-- 5-->
 <tr>
 <td>
-mini_test/images/BraTS2021_01073_1119.jpg<br>
+test/images/BraTS2021_01073_1119.jpg<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_01073_1119.jpg" width="512" height="auto">
 
 </td>
@@ -297,7 +297,7 @@ Inferred BraTS2021_01073_1119.jpg<br>
 <!-- 6-->
 <tr>
 <td>
-mini_test/images/BraTS2021_00734_1047.jpg<br>
+test/images/BraTS2021_00734_1047.jpg<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00734_1047.jpg" width="512" height="auto">
 
 </td>
