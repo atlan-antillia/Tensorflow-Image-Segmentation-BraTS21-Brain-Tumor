@@ -224,17 +224,17 @@ Inferred test masks<br>
 Merged test images and inferred masks<br> 
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/asset/merged_mini_test_output.png" width="1024" height="auto"><br> 
 
-Enlarged samples<br>
+Enlarged test-images and inferred-merged-images<br>
 <table>
 <tr>
 <td>
 test/images/BraTS2021_00017_1062.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00017_1062.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00017_1062.jpg" width="480" height="auto">
 
 </td>
 <td>
 Inferred BraTS2021_00017_1062.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00017_1062.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00017_1062.jpg" width="480" height="auto">
 </td> 
 </tr>
 
@@ -243,12 +243,12 @@ Inferred BraTS2021_00017_1062.jpg<br>
 <tr>
 <td>
 test/images/BraTS2021_00334_1070.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00334_1070.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00334_1070.jpg" width="480" height="auto">
 
 </td>
 <td>
 Inferred BraTS2021_00334_1070.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00334_1070.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00334_1070.jpg" width="480" height="auto">
 </td> 
 </tr>
 
@@ -257,12 +257,12 @@ Inferred BraTS2021_00334_1070.jpg<br>
 <tr>
 <td>
 test/images/BraTS2021_00579_1071.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00579_1071.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00579_1071.jpg" width="480" height="auto">
 
 </td>
 <td>
 Inferred BraTS2021_00579_1071.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00579_1071.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00579_1071.jpg" width="480" height="auto">
 </td> 
 </tr>
 
@@ -271,12 +271,12 @@ Inferred BraTS2021_00579_1071.jpg<br>
 <tr>
 <td>
 test/images/BraTS2021_00716_1080.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00716_1080.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00716_1080.jpg" width="480" height="auto">
 
 </td>
 <td>
 Inferred BraTS2021_00716_1080.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00716_1080.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00716_1080.jpg" width="480" height="auto">
 </td> 
 </tr>
 
@@ -285,12 +285,12 @@ Inferred BraTS2021_00716_1080.jpg<br>
 <tr>
 <td>
 test/images/BraTS2021_01073_1119.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_01073_1119.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_01073_1119.jpg" width="480" height="auto">
 
 </td>
 <td>
 Inferred BraTS2021_01073_1119.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_01073_1119.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_01073_1119.jpg" width="480" height="auto">
 </td> 
 </tr>
 
@@ -298,12 +298,12 @@ Inferred BraTS2021_01073_1119.jpg<br>
 <tr>
 <td>
 test/images/BraTS2021_00734_1047.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00734_1047.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test/images/BraTS2021_00734_1047.jpg" width="480" height="auto">
 
 </td>
 <td>
 Inferred BraTS2021_00734_1047.jpg<br>
-<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00734_1047.jpg" width="512" height="auto">
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test_output_merged/BraTS2021_00734_1047.jpg" width="480" height="auto">
 </td> 
 </tr>
 
