@@ -6,7 +6,7 @@ and
 <a href="https://drive.google.com/file/d/1gyLoQcMA6t9_jlSDY0YzVXf8UZn56H3D/view?usp=sharing">
 BraTS21-ImageMask-Dataset.zip
 </a> created from the master dataset of 
-<a href="http://braintumorsegmentation.org/"<b>RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge 2021</b></a>
+<a href="http://braintumorsegmentation.org/"><b>RSNA-ASNR-MICCAI Brain Tumor Segmentation (BraTS) Challenge 2021</b></a>
 <br>
 <br>
 As a first trial, we use the simple UNet Model 
