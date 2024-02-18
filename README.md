@@ -97,7 +97,7 @@ Please expand the downloaded ImageMaskDataset and place them under <b>./dataset<
  
 <b>BraTS21 Dataset Statistics</b><br>
 <img src ="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/BraTS21_Statistics.png" width="512" height="auto"><br>
-As show above, the number of images in train dataset is over 65,000, and valid is over 12,000, which are enough number of data
+As shown above, the number of images in train dataset is over 65,000, and valid is over 12,000, which are enough number of data
 to use for our training and validation process,probably no further dataset augmentation is needed.<br>
 
 <br>
