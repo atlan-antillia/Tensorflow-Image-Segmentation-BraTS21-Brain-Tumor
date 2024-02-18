@@ -98,7 +98,7 @@ Please expand the downloaded ImageMaskDataset and place them under <b>./dataset<
 <b>BraTS21 Dataset Statistics</b><br>
 <img src ="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/BraTS21_Statistics.png" width="512" height="auto"><br>
 As shown above, the number of images in train dataset is over 65,000, and valid is over 12,000, which are enough
-to use for our training and validation process,probably no further dataset augmentation is needed.<br>
+to use for our training and validation process, probably no further dataset augmentation is needed.<br>
 
 <br>
 
@@ -167,10 +167,24 @@ and run the following bat file to train TensorflowUNet model for BraTS21.<br>
 <pre>
 ./1.train.bat
 </pre>
+, which simply runs Python script <a href="./src/TensorflowUNetTrainer.py">TensorflowUNetTrainer.py</a> with a configuration file.
 <pre>
 python ../../../src/TensorflowUNetTrainer.py ./train_eval_infer.config
-
 </pre>
+<br>
+
+If you would like to use an online dataset augmentation strategy based on 
+<a href="./src/ImageMaskAugmentor.py">ImageMaskAugmentor.py</a>,
+please run the following bat file.<br>
+<pre>
+./1.train_by_generator.bat
+</pre>
+ which simply runs Python script <a href="./src/TensorflowUNetGeneratorTrainer.py">TensorflowUNetGeneratorTrainer.py</a> with a configuration file.
+<pre>
+python ../../../src/TensorflowUNetGeneratorTrainer.py ./train_eval_infer_aug.config    
+</pre>
+<br>
+
 Train console output:<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/asset/train_console_output_at_epoch_37.png" width="720" height="auto"><br>
 Train metrics:<br>
@@ -212,7 +226,7 @@ Please move to a <b>./projects/TensorflowSlightlyFlexibleUNet/BraTS21</b> folder
 <pre>
 python ../../../src/TensorflowUNetInferencer.py ./train_eval_infer.config
 </pre>
-This infers Brai-Tumor regions for images in <a href="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test">mini_test</a> folder.
+This infers Brain-Tumor regions for images in <a href="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/mini_test">mini_test</a> folder.
 
 Sample test images<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/BraTS21/asset/sample_mini_test_images.png" width="1024" height="auto"><br>
@@ -322,6 +336,7 @@ Enlarged test-images and inferred-merged-images<br>
 </tr>
 
 </table>
+
 
 <h3>
 References
