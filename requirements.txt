@@ -94,7 +94,7 @@ tf-estimator-nightly==2.8.0.dev2021122109
 threadpoolctl==3.1.0
 tifffile==2023.4.12
 toml==0.10.2
-tqdm==4.64.0
+tqdm==4.66.3
 typeguard==2.13.3
 typing_extensions==4.2.0
 urllib3==1.26.17
